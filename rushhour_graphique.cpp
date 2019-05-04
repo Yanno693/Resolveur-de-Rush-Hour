@@ -175,7 +175,7 @@ class GameEngine : public olc::PixelGameEngine
 		
 		GameEngine()
 		{
-			sAppName = "LIFAP6 : Rush Hour";
+			sAppName = "Rush Hour";
 			copie = Jeu();
 			j = Jeu();
         }
