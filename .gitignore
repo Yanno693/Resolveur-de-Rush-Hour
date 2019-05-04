@@ -1,0 +1,14 @@
+*.o
+*.obj
+*.log
+*.pdb
+*.idb
+*.ilk
+rushhour
+rushhour_graphique
+.vscode
+/Rush Hour
+/Rush Hour Graphique
+texte.txt
+*.sln
+*.vcxproj
