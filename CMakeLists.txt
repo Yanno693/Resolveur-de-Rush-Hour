@@ -44,3 +44,7 @@ set(HEADERSG
 
 add_executable(rushhour ${SRCS} ${HEADERS})
 add_executable(rushhour_graphique ${SRCSG} ${HEADERSG})
+target_link_libraries(rushhour_graphique -lX11)
+target_link_libraries(rushhour_graphique -lpng)
+target_link_libraries(rushhour_graphique -lGL)
+target_link_libraries(rushhour_graphique -lpthread)
