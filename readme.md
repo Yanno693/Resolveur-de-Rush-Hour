@@ -93,6 +93,12 @@ Nous esperons que vous apprécirez ces lignes de C++ écrites à la sueur de nos
 OneLoneCoder (aussi connu sous le pseudo Javidx9) est un Youtubeur faisant différents tutoriaux en programmation, et à créer pour ses tutoriaux olcPixelGameEngine.h, un simple fichier d'en-tête permettant de rapidement créer des fenêtre et d'y afficher des choses.  
 Ce fichier est sous licences GNU GPLv3 et peut être utilisé dans tout projet si son créateur s'y trouve acrédité (pseudonyme en haut de la fenêtre de la version graphique).
 
+## Captures
+
+![Start](Captures/capture1.png)
+![Load](Captures/capture2.png)
+![End](Captures/capture3.png)
+
 ## Lien Utiles
 
 - Le jeu de société [Rush Hour](https://fr.wikipedia.org/wiki/Rush_hour_(casse-t%C3%AAte))
